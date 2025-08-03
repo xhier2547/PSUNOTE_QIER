@@ -1,4 +1,4 @@
-# Flask Note-Taking Web Application by Qier
+# Flask Note-Taking Web Application by Qier 6610110688
 
 แอปพลิเคชันสำหรับจดบันทึกอย่างง่าย สร้างขึ้นด้วย Flask และ PostgreSQL ผู้ใช้สามารถสร้าง, แก้ไข, ลบโน้ต และจัดระเบียบด้วยแท็ก (Tags) ได้
 
@@ -25,7 +25,7 @@
 1.  **Clone the repository:**
     ```bash
     # vvv LINK HAS BEEN CORRECTED vvv
-    git clone [https://github.com/xhier2547/PSUNOTE_QIER.git](https://github.com/xhier2547/PSUNOTE_QIER.git)
+    git clone https://github.com/xhier2547/PSUNOTE_QIER.git
     cd PSUNOTE_QIER
     ```
 
@@ -71,4 +71,4 @@
 * **ดูตามแท็ก:** คลิกที่ชื่อแท็กเพื่อดูโน้ตทั้งหมดที่มีแท็กนั้นๆ และสามารถแก้ไขหรือลบแท็กได้จากหน้านี้
 
 
-**QIER**
+**QIER 6610110688**
